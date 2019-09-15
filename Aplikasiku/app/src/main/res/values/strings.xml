@@ -16,5 +16,8 @@
 	<string name="confirm_password">Confirm Password</string>
 	<string name="send_request">Send Request</string>
 	<string name="change_password">Change Password</string>
-    <string name="todo">TODO</string>
+	<string name="welcome_to_kominfo">Welcome To Kominfo</string>
+	<string name="what_is_going_to_happen_tomorrow">What is going to happen tomorrow ?</string>
+	<string name="login">Login</string>
+
 </resources>
