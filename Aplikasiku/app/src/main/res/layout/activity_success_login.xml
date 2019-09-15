@@ -35,4 +35,26 @@
 		app:layout_constraintStart_toStartOf="parent"
 		app:layout_constraintTop_toBottomOf="@id/txt_success" />
 
+	<ImageView
+		android:id="@+id/imageView"
+		android:layout_width="190dp"
+		android:layout_height="190dp"
+		android:layout_marginStart="8dp"
+		android:layout_marginEnd="8dp"
+		android:contentDescription="@string/todo"
+		android:src="@drawable/blue"
+		app:layout_constraintBottom_toTopOf="@+id/guideline2"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintHorizontal_bias="0.5"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintVertical_bias="0.73" />
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@+id/guideline2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		app:layout_constraintGuide_percent="0.500684" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
