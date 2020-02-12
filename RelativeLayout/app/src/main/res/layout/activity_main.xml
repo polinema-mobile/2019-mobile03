@@ -5,7 +5,7 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	tools:context=".MainActivity">
-//button
+
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
@@ -14,7 +14,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:text="TOP" />
-//button
+
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
