@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
 
         android:text="TOP" />
-
+//Button
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
